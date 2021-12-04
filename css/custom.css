@@ -3,3 +3,7 @@
   src:url('/fonts/Candy.ttf'); /* 字体文件路径 */
   font-display : swap;
 }
+
+body {
+    font-family: 'Candyhome';
+}
