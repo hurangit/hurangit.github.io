@@ -20,7 +20,7 @@ body {
 #page-header.post-bg:before {
   background-color: transparent!important;
 }
-/*夜间模式伪类遮罩层透明*/
+/*夜间模式伪类遮罩层透明*/    
 [data-theme="dark"]
   #footer::before{
       background: transparent!important;
@@ -30,3 +30,7 @@ body {
     background: transparent!important;
     }
 
+/* 首页文章卡片 */
+#recent-posts > .recent-post-item{
+    background:rgba(18, 18, 18, 0.8);
+}
