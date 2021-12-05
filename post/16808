@@ -363,4 +363,4 @@ document.addEventListener('pjax:error', (e) => {
   else if (epage === cpage){
     butterfly_footer_beautify_injector_config();
   }
-  </script><script defer src="https://cdn.jsdelivr.net/npm/hexo-butterfly-swiper/lib/swiper.min.js"></script><script defer data-pjax src="https://cdn.jsdelivr.net/npm/hexo-butterfly-footer-beautify/lib/swiperbdage_init_js.min.js"></script><!-- hexo injector body_end end --></body></html>
+  </script><script defer src="https://cdn.jsdelivr.net/npm/hexo-butterfly-swiper/lib/swiper.min.js"></script><script defer data-pjax src="https://cdn.jsdelivr.net/npm/hexo-butterfly-footer-beautify/lib/swiperbdage_init.min.js"></script><!-- hexo injector body_end end --></body></html>
