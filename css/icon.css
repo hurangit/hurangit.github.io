@@ -2,9 +2,9 @@
   font-family: "icon"; /* Project id 2992731 */
   /* Color fonts */
   src: 
-       url('//at.alicdn.com/t/font_2992731_l09thqkmvv.woff2?t=1638804408398') format('woff2'),
-       url('//at.alicdn.com/t/font_2992731_l09thqkmvv.woff?t=1638804408398') format('woff'),
-       url('//at.alicdn.com/t/font_2992731_l09thqkmvv.ttf?t=1638804408398') format('truetype');
+       url('//at.alicdn.com/t/font_2992731_0w6xd4iq5pba.woff2?t=1638804781674') format('woff2'),
+       url('//at.alicdn.com/t/font_2992731_0w6xd4iq5pba.woff?t=1638804781674') format('woff'),
+       url('//at.alicdn.com/t/font_2992731_0w6xd4iq5pba.ttf?t=1638804781674') format('truetype');
 }
 
 .icon {
@@ -13,6 +13,10 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-GitHub:before {
+  content: "\e600";
 }
 
 .icon-weixin1:before {
@@ -25,10 +29,6 @@
 
 .icon-QQ:before {
   content: "\e668";
-}
-
-.icon-Github:before {
-  content: "\e7e8";
 }
 
 .icon-mail:before {
