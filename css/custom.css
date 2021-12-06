@@ -1,6 +1,6 @@
 @font-face{
   font-family:'Candyhome' ;  /* 字体名自定义即可 */
-  src:url('https://cdn.jsdelivr.net/npm/hexo-fonts/Candyhome.ttf'); /* 字体文件路径 */
+  src:url('https://cdn.jsdelivr.net/npm/huran/fonts/Candyhome.ttf'); /* 字体文件路径 */
   font-display : swap;
 }
 
@@ -58,6 +58,7 @@ div#tag{
 div#category{
   background: rgba(255, 255, 255, 0.9);
 }
+
 /* 夜间模式 */
 [data-theme="dark"]
   #aside-content .card-widget{
