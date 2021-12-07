@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>利用Windows系统Bug创建加密文件夹</title>
+      <link href="/post/99c5a280/"/>
+      <url>/post/99c5a280/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h2 id="原理"><a href="#原理" class="headerlink" title="原理"></a>原理</h2><p>windows文件夹命名不能存在特殊符号，但是可以通过CMD命令来进行非法的命名。</p><p>在windows系统当中<code>..\</code>被解释成返回上一级目录，也就是说如果你的文件夹名字是这个，那就会形成以下特点</p><ul><li>无法打开</li><li>无法复制</li><li>无法移动</li><li>无法删除</li><li>占用始终显示0字节</li></ul><p>具体如下图</p><p><img src="https://cdn.jsdelivr.net/gh/hurangit/hexo-img/20211207165354.png" alt=""></p><p>已经过测试的系统</p><ul><li>Windows7   64位</li><li>Windows10 64位</li><li>Windows11 64位</li></ul><h2 id="实现过程"><a href="#实现过程" class="headerlink" title="实现过程"></a>实现过程</h2><p>在你想要创建加密文件夹的目录下运行CMD（非Winodws Powershell）</p><p>创建名称为<code>test</code>的文件夹</p><figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">md</span> test..\ </span><br></pre></td></tr></table></figure><p>打开名称为<code>test</code>的文件夹</p><figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">start</span> test~<span class="number">1</span></span><br></pre></td></tr></table></figure><p>删除名称为<code>test</code>的文件夹</p><figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">rd</span> test..\</span><br></pre></td></tr></table></figure><h2 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h2><p>关于文件夹的名字是有要求的，仅可设置为2-3汉字，3-6字母，否则就会无法打开文件夹的。</p><p>删除时需要将文件夹内的东西全部删除后，才可删除文件夹。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Windwos </category>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+            <tag> Windows </tag>
+            
+            <tag> Bug </tag>
+            
+            <tag> 加密文件夹 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>在宝塔安装Hexo博客+butterfly主题</title>
       <link href="/post/3aede2af/"/>
       <url>/post/3aede2af/</url>
