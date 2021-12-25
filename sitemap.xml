@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.huran.xyz/post/8728f55f/</loc>
+    
+    <lastmod>2021-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.huran.xyz/post/be90eff1/</loc>
     
     <lastmod>2021-12-25</lastmod>
@@ -206,6 +215,13 @@
   </url>
   
   <url>
+    <loc>https://blog.huran.xyz/tags/Butterfly/</loc>
+    <lastmod>2021-12-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.huran.xyz/tags/%E6%96%87%E7%AB%A0/</loc>
     <lastmod>2021-12-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -214,13 +230,6 @@
   
   <url>
     <loc>https://blog.huran.xyz/tags/%E9%93%BE%E6%8E%A5%E6%A0%BC%E5%BC%8F/</loc>
-    <lastmod>2021-12-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.huran.xyz/tags/%E4%B8%BB%E9%A2%98/</loc>
     <lastmod>2021-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -242,6 +251,13 @@
   
   <url>
     <loc>https://blog.huran.xyz/tags/%E5%8A%A0%E5%AF%86%E6%96%87%E4%BB%B6%E5%A4%B9/</loc>
+    <lastmod>2021-12-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.huran.xyz/tags/%E4%B8%BB%E9%A2%98/</loc>
     <lastmod>2021-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
