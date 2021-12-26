@@ -4,6 +4,41 @@
   
     
     <entry>
+      <title>Hexo 新建文章自动打开编辑器</title>
+      <link href="/post/60f1ef6d/"/>
+      <url>/post/60f1ef6d/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><p>转自<a href="https://www.sianx.com/">Sianx’s Blog</a><a href="[博客魔改记录 | Sianx&#39;s Blog](https://www.sianx.com/posts/c32b6e4c/#Hexo 新建文章自动打开编辑器">《博客魔改记录》</a>)仅用于记录和学习。</p><ol><li><p>在HEXO根目录下新建<code>scripts</code>文件夹</p></li><li><p>在<code>scripts</code>文件夹新建一个js文件，例如<code>new.js</code></p></li><li><p>在<code>new.js</code>中添加如下代码：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">var spawn = require(&#x27;child_process&#x27;).exec</span><br><span class="line"> </span><br><span class="line">hexo.on(&#x27;new&#x27;, function(data)&#123;</span><br><span class="line">  spawn(&#x27;start  &quot;D:\Program Files\Typora\Typora.exe&quot; &#x27; + data.path)</span><br><span class="line">&#125;)</span><br></pre></td></tr></table></figure></li></ol><p>其中<code>D:\Program Files\Typora\Typora.exe</code>改成你自己编辑器的绝对地址即可。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Hexo </category>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+            <tag> 编辑器 </tag>
+            
+            <tag> Github </tag>
+            
+            <tag> 文章 </tag>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>基于 Butterfly 主题的双栏卡片主页文章 css 样式</title>
       <link href="/post/8728f55f/"/>
       <url>/post/8728f55f/</url>
@@ -24,9 +59,9 @@
             
             <tag> 教程 </tag>
             
-            <tag> Butterfly </tag>
-            
             <tag> 文章 </tag>
+            
+            <tag> Butterfly </tag>
             
         </tags>
       
@@ -53,11 +88,11 @@
       
         <tags>
             
-            <tag> Vercel </tag>
-            
             <tag> 教程 </tag>
             
             <tag> Github </tag>
+            
+            <tag> Vercel </tag>
             
             <tag> 随机图 </tag>
             
@@ -154,9 +189,9 @@
             
             <tag> 教程 </tag>
             
-            <tag> Hexo </tag>
-            
             <tag> 文章 </tag>
+            
+            <tag> Hexo </tag>
             
             <tag> 链接格式 </tag>
             
@@ -187,9 +222,9 @@
             
             <tag> 教程 </tag>
             
-            <tag> Hexo </tag>
-            
             <tag> 编辑器 </tag>
+            
+            <tag> Hexo </tag>
             
             <tag> Markdown </tag>
             
