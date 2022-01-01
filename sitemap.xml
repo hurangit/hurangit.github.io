@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.huran.xyz/post/22ab2c3c/</loc>
+    
+    <lastmod>2022-01-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.huran.xyz/post/dd140b41/</loc>
     
     <lastmod>2021-12-29</lastmod>
@@ -219,6 +228,34 @@
   </url>
   
   <url>
+    <loc>https://blog.huran.xyz/tags/twikoo/</loc>
+    <lastmod>2022-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.huran.xyz/tags/%E8%AF%84%E8%AE%BA/</loc>
+    <lastmod>2022-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.huran.xyz/tags/%E5%9B%BE%E7%89%87/</loc>
+    <lastmod>2022-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.huran.xyz/tags/%E6%94%BE%E5%A4%A7/</loc>
+    <lastmod>2022-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.huran.xyz/tags/Vercel/</loc>
     <lastmod>2022-01-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -319,14 +356,14 @@
   </url>
   
   <url>
-    <loc>https://blog.huran.xyz/categories/Windows/</loc>
+    <loc>https://blog.huran.xyz/categories/Hexo/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2022-01-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.huran.xyz/categories/Hexo/%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://blog.huran.xyz/categories/Windows/</loc>
     <lastmod>2022-01-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
