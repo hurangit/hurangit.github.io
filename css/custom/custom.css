@@ -160,3 +160,17 @@ svg.icon {
     text-shadow: 0.05rem 0.05rem 0.1rem rgb(0 0 0 / 30%);
     cursor: pointer;
 }
+/*相册页面定位修复*/
+.justified-gallery > div > img,
+.justified-gallery > figure > img,
+.justified-gallery > a > a > img,
+.justified-gallery > div > a > img,
+.justified-gallery > figure > a > img,
+.justified-gallery > a > svg,
+.justified-gallery > div > svg,
+.justified-gallery > figure > svg,
+.justified-gallery > a > a > svg,
+.justified-gallery > div > a > svg,
+.justified-gallery > figure > a > svg{
+    position:static!important;
+}
