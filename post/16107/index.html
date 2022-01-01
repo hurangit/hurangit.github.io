@@ -185,14 +185,14 @@ setTimeout(function(){preloader.endLoading();}, 3000);</script></div><div class=
   const init = () => {
     twikoo.init(Object.assign({
       el: '#twikoo-wrap',
-      envId: 'https://twikoo-six-rho.vercel.app/',
+      envId: 'https://twikoo.huran.xyz/twikoo',
       region: ''
     }, null))
   }
 
   const getCount = () => {
     twikoo.getCommentsCount({
-      envId: 'https://twikoo-six-rho.vercel.app/',
+      envId: 'https://twikoo.huran.xyz/twikoo',
       region: '',
       urls: [window.location.pathname],
       includeReply: false
