@@ -228,34 +228,6 @@
   </url>
   
   <url>
-    <loc>https://blog.huran.xyz/tags/Vercel/</loc>
-    <lastmod>2022-01-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.huran.xyz/tags/Github/</loc>
-    <lastmod>2022-01-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.huran.xyz/tags/%E9%9A%8F%E6%9C%BA%E5%9B%BE/</loc>
-    <lastmod>2022-01-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.huran.xyz/tags/API/</loc>
-    <lastmod>2022-01-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.huran.xyz/tags/twikoo/</loc>
     <lastmod>2022-01-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -278,6 +250,34 @@
   
   <url>
     <loc>https://blog.huran.xyz/tags/%E6%94%BE%E5%A4%A7/</loc>
+    <lastmod>2022-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.huran.xyz/tags/Vercel/</loc>
+    <lastmod>2022-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.huran.xyz/tags/Github/</loc>
+    <lastmod>2022-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.huran.xyz/tags/%E9%9A%8F%E6%9C%BA%E5%9B%BE/</loc>
+    <lastmod>2022-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.huran.xyz/tags/API/</loc>
     <lastmod>2022-01-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
