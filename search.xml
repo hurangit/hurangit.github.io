@@ -4,6 +4,68 @@
   
     
     <entry>
+      <title>登顶吾爱的小工具，这软件时机来得刚刚好！</title>
+      <link href="/post/3f42529/"/>
+      <url>/post/3f42529/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h2><p>最近疫情严重了，很多地方都出现了本地确诊病例，尤其是西安，其他地方也已经严格管控了。疫情历经了接近两年，大家对于疫情也没那么恐慌，按照规定，该干嘛干嘛，不给国家添乱，不给社会添堵。</p><p>虽然说疫情已经成为了一场持久战，但是疫情并未松懈。特别是身处外地的小伙伴，快过年了，肯定更加关注疫情变化。但是疫情的信息去哪里查才好呢？<br>​</p><p>来，看看吾爱的一软件作者开发出来的这款小工具，看他怎么说~</p><h2 id="软件介绍"><a href="#软件介绍" class="headerlink" title="软件介绍"></a>软件介绍</h2><p>据介绍，软件的作者比较关注疫情，而无论是百度的疫情动态，还是腾讯的动态，数据都不完整，于是作者整合了两大平台数据，开发出了这款“疫情数据关注工具”。<br>​</p><p>这款工具腾讯哈勃检测是无毒，可放心使用。<br><img src="https://unpkg.zhimg.com/hexo-img-post@1.0.8/20220104161941.jpg" alt="20220104161941.jpg"><br>软件是单文件版本，其因为是整合腾讯与百度的疫情动态，所以一定要连网才能使用。</p><p>这个软件作者做得还是非常详细的，本土现有确认、现有确诊、累计确诊、无症状感染者、境外输入的数据全都有，而且还有每个数据都有“较昨日”的数据对比。下面还罗列了高风险区域和中风险地区。<br>​</p><p><img src="https://unpkg.zhimg.com/hexo-img-post@1.0.8/20220104161838.jpg" alt="20220104161838.jpg"><br>除了数据罗列的方式，软件还有本土现有确诊柱状图，非常直观。</p><p><img src="https://unpkg.zhimg.com/hexo-img-post@1.0.8/20220104162009.jpg" alt="20220104162009.jpg"><br>软件还有本地现有的饼状图，目前是陕西西安占绝大多数，大家如没必要，不要出行，如有必要也要避开高风险地区。<br><img src="https://unpkg.zhimg.com/hexo-img-post@1.0.8/20220104162034.jpg" alt="20220104162034.jpg"><br>在疫情还非常严峻的今天，我觉得有必要经常关注疫情，特别是临近春节了，大家更应该多多关注。软件就介绍到这里啦，感兴趣的小伙伴文末获取叭~~~</p><h2 id="软件获取"><a href="#软件获取" class="headerlink" title="软件获取"></a>软件获取</h2><div class="btns rounded grid5">            <a class="button" href='https://huran.lanzout.com/iMeVwyd63of' title='蓝奏云'><i class='fas fa-download'></i>蓝奏云</a>          </div>]]></content>
+      
+      
+      <categories>
+          
+          <category> Windows </category>
+          
+          <category> 工具 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Windows </tag>
+            
+            <tag> 工具 </tag>
+            
+            <tag> 疫情 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>1+1&gt;2，数据告诉你为什么内存条2根小的比1根大的强</title>
+      <link href="/post/7fee4a75/"/>
+      <url>/post/7fee4a75/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><p>我们通常认为参数相同的前提下，单个硬件的表现优于多个硬件的组合，因为它的集成度更高，可以避免协同造成的性能损失。</p><p>但如果你自己折腾过电脑的话，可能知道电脑内存条更推荐买两根小的，这样得到的效果比单根大的更好。</p><p>为什么会这样？1+1&gt;2 是否随时都有效？<br><img src="https://unpkg.zhimg.com/hexo-img-post@1.0.7/20220104154405.jpg" alt="20220104154405.jpg"></p><h2 id="多个内存多条路"><a href="#多个内存多条路" class="headerlink" title="多个内存多条路"></a>多个内存多条路</h2><p>我们可以把硬件间的数据传输想象成马路上奔跑的车辆，当有大量车辆需要通行时（大量读写数据），在不堵车的情况下，道路越宽可以通行的车辆就越多，数据传输量就越大。<br><img src="https://unpkg.zhimg.com/hexo-img-post@1.0.7/20220104154451.jpg" alt="20220104154451.jpg"><br>传输数据的马路在电脑中叫做「总线」，它的频率和带宽是固定的，由主板的设计决定。频率越高，车辆的限速就越高，跑得越快，<strong>数据传输速度也更快；</strong>带宽越大，车道的宽度就越大，容量的车辆也越多，<strong>同时传输的数据量就更大。</strong></p><hr><p>在电脑内存发展的中期，因为主板接口通常使用串联设计，内存条不管安装多少根，都只走一条路线传输数据。假如总线带宽为 64-bit，当内存传的带宽达到 64-bit 时，不管加再多内存条也不会突破总线上限。于是就出现了瓶颈。</p><p>为了解决这个问题，主板接口引入并联设计，<strong>每个接口享用独立的传输数据通道。</strong>原本两根内存条的数据挤一个通道，现在多出一个通道，理论带宽翻倍达到 128-bit。<br><img src="https://unpkg.zhimg.com/hexo-img-post@1.0.7/20220104154522.jpg" alt="20220104154522.jpg"><br><strong>这种安装两根内存条，享受两根数据传输通道的做法我们称为「双通道」。</strong></p><hr><p>想要知道自己目前是否为双通道，可以下载 CPU-Z，在内存选项卡中会表明目前的状态。（并不是插两根内存条就是双通道，后面讲原因）<img src="https://unpkg.zhimg.com/hexo-img-post@1.0.7/20220104154547.jpg" alt="20220104154547.jpg"></p><h2 id="多通道"><a href="#多通道" class="headerlink" title="多通道"></a>多通道</h2><p>有些主板上不止两个内存插糟，那么是否也有三通道、四通道呢？答案是肯定的。但是情况要比双通道复杂的多得。</p><p>现在的 CPU 和主板都支持双通道，但对三通道的支持却并不常见。</p><p>假如同时插 3 根 8GB 内存条，理论上三通道应该是 64<em>3bit。但实际的情况多半是前两根组成了双通道 64</em>2bit，第三根依然是单通道 64bit，最终结果是 64*2bit <strong>+</strong> 64bit。</p><p><strong>这种情况称为「非对称双通道」，依然是双通道。</strong><br><img src="https://unpkg.zhimg.com/hexo-img-post@1.0.7/20220104154617.jpg" alt="20220104154617.jpg"></p><p>看起来 64<em>3 和 64</em>2+64 的计算结果是一样的？然而表面数值和实际情况往往有很大差别。</p><p>因为我们要<strong>把双通道看成一个性能升级的整体，</strong>我们打开一个程序，系统很可能会将这个程序的数据拆分为双份，分配给双通道的两根内存条，以享受更高的带宽。</p><p>假如我们打开了聊天、浏览器、Word 等这种不怎么需要用内存大量传输数据的程序，它们占用了双通道内存。</p><p>此时再打开一个游戏或视频剪辑软件这种需要大量内存空间的程序，因为双通道空间不足，它就只能使用单通道的 8GB 内存。</p><p>这样的分配显然不合理，「三通道」很可能反而不如双通道。</p><p><strong>因为双通道内存中的数据不会与单通道共享。</strong></p><p><strong>​</strong>当然也有特殊的主板 CPU 是支持真正的三通道，但是比较少见。</p><p><img src="https://unpkg.zhimg.com/hexo-img-post@1.0.7/20220104154641.jpg" alt="20220104154641.jpg"><br>支持的四通道的主板也少，服务器比较多见。（主板上并不是一个内存插槽就是一个通道，后面讲原因）<br><img src="https://unpkg.zhimg.com/hexo-img-post@1.0.7/20220104154646.jpg" alt="20220104154646.jpg"></p><h2 id="别抱太大期望"><a href="#别抱太大期望" class="headerlink" title="别抱太大期望"></a>别抱太大期望</h2><p>带宽翻倍这事情听起来很厉害，毕竟数据传输量翻倍，但实际体验远没有纸面数据那么夸张。</p><p>下面是单通道 8GB DDR3 与双通道 8GB（4+4GB）DDR3 的测试数据对比，<strong>橙色为双通道，蓝色为单通道。</strong><br><strong>​</strong></p><p><strong>Euler 3D</strong><br>在 Euler 3D 基准测试中，双通道的性能比单通道强大约 17％。对于执行高负荷运算，仿真和编译的朋友，这个测试比较有参考价值。<br><img src="https://unpkg.zhimg.com/hexo-img-post@1.0.7/20220104154736.jpg" alt="20220104154736.jpg"><br><strong>复制，读写和带宽</strong><br>这项测试可以明显看出带宽提升带来的性能提升，虽然提升 20% 也很明显，但还远未达到所谓翻倍效果。<img src="https://unpkg.zhimg.com/hexo-img-post@1.0.7/20220104154749.jpg" alt="20220104154749.jpg"><br><strong>内存延迟</strong><br>延迟是指数据传输指令送达后到开始传输数据之间的延迟。双通道的延迟能够缩短约 2.7％ 的，仍然略优于单通道。<br><img src="https://unpkg.zhimg.com/hexo-img-post@1.0.7/20220104154822.jpg" alt="20220104154822.jpg"><br><strong>视频转码</strong><br>Handbrake 是一个强大的工具，可以将电脑性能推到极限，双通道在视频转码工作上大约有 4.5% 的优势。即使对于视频翻录或转码有重度需求的朋友，这点点提升也是微乎其微。<br><img src="https://unpkg.zhimg.com/hexo-img-post@1.0.7/20220104154833.jpg" alt="20220104154833.jpg"><br><strong>Adobe Premiere</strong><br>这是目前最常用的视频剪辑软件，基准测试中，双通道省了大约 8 秒的总体渲染时间，测试中渲染的视频比较短，如果全天渲染的话差距可能会提升到十几到几十分钟。<br><img src="https://unpkg.zhimg.com/hexo-img-post@1.0.7/20220104154911.jpg" alt="20220104154911.jpg"><br><strong>游戏测试</strong><br>最后是大家比较关心的游戏性能，在搭配 GTX 1060 显卡时，得到的结果与前面大致相同，双通道可以略微提升几帧。但有时双通道的性能反而会下降，这点在巫师 3 中格外明显。原因可能是因为游戏的优化问题。<br><img src="https://unpkg.zhimg.com/hexo-img-post@1.0.7/20220104154923.jpg" alt="20220104154923.jpg"></p><h2 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h2><p>对于双通道并不是双根内存条插上就完事了，它还有很多限制。</p><p>1、最简单的做法就是使用两根同品牌、同型号、同容量、同频率的一模一样的内存条，这样得到的效果最佳也最省心。<br><img src="https://unpkg.zhimg.com/hexo-img-post@1.0.7/20220104154950.jpg" alt="20220104154950.jpg"><br>2、当两根内存条容量不同时，例如 4GB+8GB 也能组成双通道，实际上的效果是 8GB 的前 4GB 加入双通道，后 4GB 自成一派，得到「不对称双通道」。</p><p>3、两根不同频率的内存条，例如 2400Hz 和 2666Hz 也能组成双通道，实际上的效果是高频自动降为低频，最终就是 2400Hz 的双通道。（请先了解主板最高支持多少频率）</p><p>4、DDR4 与 DDR3 无法组成双通道，不过也很少有主板同时支持两代内存条，插槽都不一样。<br><img src="https://unpkg.zhimg.com/hexo-img-post@1.0.7/20220104155006.jpg" alt="20220104155006.jpg"><br>5、有 4 个内存插槽的主板通常是双通道。如下图，两个相邻插槽为一个通道。这一点非常非常重要，大多数人都是两根内存条条组成双通道，但是有四个插槽，一些有强迫症又不看说明书的朋友就会挨着插，这样其实都插到一个通道里了，无法组成双通道！<img src="https://unpkg.zhimg.com/hexo-img-post@1.0.7/20220104155018.jpg" alt="20220104155018.jpg"><br>如果只有两根内存条，最佳做法是先插 <strong>A2 </strong>和 <strong>B2</strong>，如果只有一根内存条就先插 <strong>A2</strong>，也就是先用离 CPU 远的插槽(远端)。</p><p>之所以这样做是因为在同一通道内，如果远端没有内存条，它会有信号反射的现象，<strong>A2</strong> 的信号又反射回 <strong>A1</strong>，造成信号干扰，影响性能的发挥。</p><p>当然，为了提高容错率，<strong>A1</strong>+<strong>B2</strong>，<strong>A2</strong>+<strong>B1</strong>也是能够组成双通道的，只是建议大家使用最佳组合，特别是需要超频的朋友。</p><p>6、4+4+8 也能组成双通道，正如上一条说的两个相邻插槽为一个通道，所以将两根 4GB 内存条插入 <strong>A 组</strong>，8GB 插入 <strong>B 组</strong>，依然能够组成双通道。</p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>双通道确实能够获得 1+1&gt;2 的效果，但可能只有 2.1 与 2 的区别。</p><p>2022 年小淙并不建议 4+4 的组合，因为后续的提升限制比较多。</p><p>如果你的预算不够，应该先买一根 8GB 或 16GB，手头宽裕了再提升到 8+8 或 16+16 的组合。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Windows </category>
+          
+          <category> 知识 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Windows </tag>
+            
+            <tag> 内存 </tag>
+            
+            <tag> 知识 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Twikoo添加图片点击放大功能</title>
       <link href="/post/22ab2c3c/"/>
       <url>/post/22ab2c3c/</url>
@@ -185,9 +247,9 @@
       
         <tags>
             
-            <tag> 教程 </tag>
-            
             <tag> Windows </tag>
+            
+            <tag> 教程 </tag>
             
             <tag> Bug </tag>
             
