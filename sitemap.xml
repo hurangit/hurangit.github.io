@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.huran.xyz/post/ec85537/</loc>
+    
+    <lastmod>2022-01-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.huran.xyz/game/index.html</loc>
     
     <lastmod>2022-01-04</lastmod>
@@ -374,6 +383,13 @@
   </url>
   
   <url>
+    <loc>https://blog.huran.xyz/tags/Linux/</loc>
+    <lastmod>2022-01-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.huran.xyz/tags/%E7%96%AB%E6%83%85/</loc>
     <lastmod>2022-01-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -440,6 +456,20 @@
   
   <url>
     <loc>https://blog.huran.xyz/categories/Vercel/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2022-01-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.huran.xyz/categories/Linux/</loc>
+    <lastmod>2022-01-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.huran.xyz/categories/Linux/%E7%9F%A5%E8%AF%86/</loc>
     <lastmod>2022-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
