@@ -6,7 +6,7 @@
   <link href="https://blog.huran.xyz/atom.xml" rel="self"/>
   
   <link href="https://blog.huran.xyz/"/>
-  <updated>2022-01-06T13:33:26.853Z</updated>
+  <updated>2022-01-06T14:08:13.099Z</updated>
   <id>https://blog.huran.xyz/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>N卡A卡连发新款，1599元起只为玩家而来</title>
+    <link href="https://blog.huran.xyz/post/89c858b4/"/>
+    <id>https://blog.huran.xyz/post/89c858b4/</id>
+    <published>2022-01-06T13:58:33.000Z</published>
+    <updated>2022-01-06T14:08:13.099Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><p>昨天夜里 CES 2022 国际消费类电子产品展览上，不少科技圈龙头企业都展示了自家新款技术产品和未来规划。<br>显示器、CPU、显卡、汽车、电视机……<br>看点实在太多，今天我们先来聊聊大家心心念念很久的显卡。<br>Nvidia 是否知道玩家真正需要的是能买到的实体显卡？从它精准的刀法来看，似乎并没有醒悟。<br><img src="https://unpkg.zhimg.com/hexo-post-img/20220106215858.jpg" alt="20220106215858.jpg"><br>昨晚的主题演讲中，Nvidia 又双叒叕带来新的空气系列产品，一次性 4 款，涵括台式机和笔记本。<br>从甜品卡 RTX 3050 到新的性能巨兽 RTX 3090Ti。<br>先来看 RTX 3050，可以说当今世界最迫切需要的就是价格实惠的显卡了。<br>新款 3050 售价创造了 RTX 显卡的「史低」，<strong>国行售价 1899 元起，本月 27 日上市。</strong><br><img src="https://unpkg.zhimg.com/hexo-post-img/20220106215912.jpg" alt="20220106215912.jpg"><br>虽然便宜，但 RTX 3050 包含所有 30 系显卡的功能，包括实时光追、DLSS 和 Reflex 等。<br>基本规格方面，RTX 3050 基于安培核心（GA106-150），2560 个 CUDA，<strong>8GB GDDR6 显存，</strong>128bit 位宽，功耗 130W。<br>性能上，着色单元单精度浮点为 9T，光追单元算力 18T，AI 单元（Tensor）算力 73T。<br>单从着色浮点来看，比 RTX 2060（6.5T）提升了 <strong>38%。</strong><br><img src="https://unpkg.zhimg.com/hexo-post-img/20220106215924.jpg" alt="20220106215924.jpg"><br>Nvidia 表示目前有 <strong>75% 的玩家</strong>仍然在使用上一代 <strong>GTX</strong> 显卡（玩家难道不想升级吗），现在是时候享受光追和 DLSS 加持下的游戏体验了。<br>在 DLSS 技术加持下，3050 在主流 1080P PC 游戏中的帧数可轻松稳定在<strong>60FPS+</strong>，完全取代钉子户 GTX 1650 级别产品。<br>再来看看 AMD 这边，AMD 昨晚也发布了 1 张低预算显卡，RX 6500XT，售价约 <strong>1599 元</strong>起。<br><img src="https://unpkg.zhimg.com/hexo-post-img/20220106215940.jpg" alt="20220106215940.jpg"><br>该显卡采用 Navi24 GPU，6nm 工艺，拥有 1024 个流处理器，<strong>4GB GDDR6 显存，</strong>带宽 128GB/S，TDP 107W，加速频率可达 2.6GHz，内建 16 组 CU（1024 个流处理器）和光追单元，16MB 无限缓存。<br>和 RTX 3050 一样，RX 6500XT 的定位一样是 <strong>1080P 流畅游戏，</strong>AMD 表示《使命召唤：先锋》、《死亡循环》与《孤岛惊魂 6》均可流畅运行。<br>从基准测试来看，RX 6500XT 性能超过了 RX 570 和 GTX 1650，并且售价比二手 1650 还便宜。<br><img src="https://unpkg.zhimg.com/hexo-post-img/20220106220000.jpg" alt="20220106220000.jpg"><br>虽然 RTX3050 游戏体验多半要比 RX 6500XT 更好，但真正值得关注的是什么？<br>RX 6500XT 只有 <strong>4GB 显存，</strong>而 RTX 3050 则有 <strong>8GB。</strong><br>一般来说显存是越来大越好，但考虑到两款都是入门级显卡，在 1080 分辨率下 3050 翻倍显存能带来多少收益，在实际测试前我们不得而知。<br>但有一点可以肯定的是，6500XT 的 4GB 显存勾不起以太坊矿工的兴趣，而 3050 的廉价的 8GB 显存对矿工来说简直是白送。<br>不过 Nvidia 表示供货有惊喜，让我们拭目以待吧。<br><img src="https://unpkg.zhimg.com/hexo-post-img/20220106220016.jpg" alt="20220106220016.jpg"><br>接下来看看另一个极端， RTX 3090Ti。<br>RTX 3090 的性能已经是消费级显卡的天花板了，RTX 3090Ti 直接把天花板砸了个窟窿。<br><img src="https://unpkg.zhimg.com/hexo-post-img/20220106220029.jpg" alt="20220106220029.jpg"><br>3090 Ti 提供 40T 着色单元算力、78T 光线追踪算力和 320T AI 单元算力。<br>这些数字是什么意思呢？小淙横竖睡不着，仔细看了半夜，才从字缝里看出字来，满篇都写着两个字是「商用」！<br>对于这种显卡擅长的创作和生产工作负载，显存非常重要。<br>RTX 3090Ti 仍然配备了巨大的 24GB GDDR6X 内存，但速度更快——在宽 384 位总线上达到惊人的 21Gbps，每秒 1TB 的最大内存带宽。<br>之前小淙就说过 3090 是为生产用途准备的，1.2W 元的售价对于玩家来说太过不合理。而 RTX 3090Ti 更是如此。<br><img src="https://unpkg.zhimg.com/hexo-post-img/20220106220100.jpg" alt="20220106220100.jpg" style="zoom: 25%;" /><br>Nvidia 没有透露 RTX 3090Ti 的售价，表示会在本月晚些时候公布更多细节。</p><p>另外 Nvidia 还升级了笔记本显卡：RTX 3070Ti 和 RTX 3080Ti。<br>RTX 3080Ti 拥有 16GB GDDR6 显存，Nvidia 承诺 3080Ti 的性能将超过上一代 RTX Titan 台式机显卡，能够在 1440P 分辨率下提供 120Hz 输出。<br><img src="https://unpkg.zhimg.com/hexo-post-img/20220106220114.jpg" alt="20220106220114.jpg"><br>不过关于 RTX 3070Ti 并没有透露更多规格，只是说这款性能是上一代 RTX 2070 笔记本显卡的 1.7 倍，能在 1440P 分辨率极限画质下达到 100 帧。</p><p><img src="https://unpkg.zhimg.com/hexo-post-img/20220106220137.jpg" alt="20220106220137.jpg"><br>两款显卡都将在下月 1 号推出，预计搭载这两款显卡的笔记本售价将在 2W 元以上。</p><p><img src="https://unpkg.zhimg.com/hexo-post-img/20220106220200.jpg" alt="20220106220200.jpg"><br>2022 年一到，等等党们是打算找机会下山还是等等下一代显卡呢？</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\js\APlayer.min.js&quot; class=&quot;aplayer-se</summary>
+      
+    
+    
+    
+    <category term="日常" scheme="https://blog.huran.xyz/categories/%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="日常" scheme="https://blog.huran.xyz/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
   
   <entry>
     <title>我在抖音卖红包封面，月入百万</title>
