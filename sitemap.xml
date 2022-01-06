@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.huran.xyz/post/20cfea67/</loc>
+    
+    <lastmod>2022-01-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.huran.xyz/post/1aa58be4/</loc>
     
     <lastmod>2022-01-05</lastmod>
@@ -238,7 +247,7 @@
 
   <url>
     <loc>https://blog.huran.xyz/</loc>
-    <lastmod>2022-01-05</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -246,182 +255,196 @@
   
   <url>
     <loc>https://blog.huran.xyz/tags/Windows/</loc>
-    <lastmod>2022-01-05</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.huran.xyz/tags/%E5%86%85%E5%AD%98/</loc>
-    <lastmod>2022-01-05</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.huran.xyz/tags/%E7%9F%A5%E8%AF%86/</loc>
-    <lastmod>2022-01-05</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.huran.xyz/tags/Hexo/</loc>
-    <lastmod>2022-01-05</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.huran.xyz/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2022-01-05</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.huran.xyz/tags/%E7%BC%96%E8%BE%91%E5%99%A8/</loc>
-    <lastmod>2022-01-05</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.huran.xyz/tags/%E6%96%87%E7%AB%A0/</loc>
-    <lastmod>2022-01-05</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.huran.xyz/tags/Nginx/</loc>
-    <lastmod>2022-01-05</lastmod>
+    <loc>https://blog.huran.xyz/tags/NPM/</loc>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.huran.xyz/tags/%E5%8F%8D%E4%BB%A3/</loc>
-    <lastmod>2022-01-05</lastmod>
+    <loc>https://blog.huran.xyz/tags/%E5%9B%BE%E5%BA%8A/</loc>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.huran.xyz/tags/twikoo/</loc>
-    <lastmod>2022-01-05</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.huran.xyz/tags/%E8%AF%84%E8%AE%BA/</loc>
-    <lastmod>2022-01-05</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.huran.xyz/tags/%E5%9B%BE%E7%89%87/</loc>
-    <lastmod>2022-01-05</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.huran.xyz/tags/%E6%94%BE%E5%A4%A7/</loc>
-    <lastmod>2022-01-05</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.huran.xyz/tags/Vercel/</loc>
-    <lastmod>2022-01-05</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.huran.xyz/tags/Github/</loc>
-    <lastmod>2022-01-05</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.huran.xyz/tags/%E9%9A%8F%E6%9C%BA%E5%9B%BE/</loc>
-    <lastmod>2022-01-05</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.huran.xyz/tags/API/</loc>
-    <lastmod>2022-01-05</lastmod>
+    <lastmod>2022-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.huran.xyz/tags/Nginx/</loc>
+    <lastmod>2022-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.huran.xyz/tags/%E5%8F%8D%E4%BB%A3/</loc>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.huran.xyz/tags/%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2022-01-05</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.huran.xyz/tags/%E5%86%85%E5%AD%98%E6%B8%85%E7%90%86/</loc>
-    <lastmod>2022-01-05</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.huran.xyz/tags/%E9%93%BE%E6%8E%A5%E6%A0%BC%E5%BC%8F/</loc>
-    <lastmod>2022-01-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.huran.xyz/tags/Bug/</loc>
-    <lastmod>2022-01-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.huran.xyz/tags/%E5%8A%A0%E5%AF%86%E6%96%87%E4%BB%B6%E5%A4%B9/</loc>
-    <lastmod>2022-01-05</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.huran.xyz/tags/%E4%B8%BB%E9%A2%98/</loc>
-    <lastmod>2022-01-05</lastmod>
+    <lastmod>2022-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.huran.xyz/tags/Bug/</loc>
+    <lastmod>2022-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.huran.xyz/tags/%E5%8A%A0%E5%AF%86%E6%96%87%E4%BB%B6%E5%A4%B9/</loc>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.huran.xyz/tags/Linux/</loc>
-    <lastmod>2022-01-05</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.huran.xyz/tags/%E7%96%AB%E6%83%85/</loc>
-    <lastmod>2022-01-05</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.huran.xyz/tags/Markdown/</loc>
-    <lastmod>2022-01-05</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -430,84 +453,98 @@
   
   <url>
     <loc>https://blog.huran.xyz/categories/Windows/</loc>
-    <lastmod>2022-01-05</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.huran.xyz/categories/Hexo/</loc>
-    <lastmod>2022-01-05</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.huran.xyz/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
-    <lastmod>2022-01-05</lastmod>
+    <loc>https://blog.huran.xyz/categories/NPM/</loc>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.huran.xyz/categories/Windows/%E7%9F%A5%E8%AF%86/</loc>
-    <lastmod>2022-01-05</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.huran.xyz/categories/Vercel/</loc>
-    <lastmod>2022-01-05</lastmod>
+    <lastmod>2022-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.huran.xyz/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.huran.xyz/categories/Hexo/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2022-01-05</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.huran.xyz/categories/Windows/%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2022-01-05</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.huran.xyz/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/Nginx/</loc>
-    <lastmod>2022-01-05</lastmod>
+    <loc>https://blog.huran.xyz/categories/NPM/%E5%9B%BE%E5%BA%8A/</loc>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.huran.xyz/categories/Windows/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2022-01-05</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.huran.xyz/categories/Linux/</loc>
-    <lastmod>2022-01-05</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.huran.xyz/categories/Vercel/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2022-01-05</lastmod>
+    <lastmod>2022-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.huran.xyz/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/Nginx/</loc>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.huran.xyz/categories/Linux/%E7%9F%A5%E8%AF%86/</loc>
-    <lastmod>2022-01-05</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
