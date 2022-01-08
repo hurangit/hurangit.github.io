@@ -1,11 +1,11 @@
 @font-face{
-  font-family:'Candyhome' ;  /* 字体名自定义即可 */
-  src:url('https://unpkg.zhimg.com/huran/fonts/Candy.ttf '); /* 字体文件路径 */
+  font-family:'zt' ;  /* 字体名自定义即可 */
+  src:url('https://unpkg.zhimg.com/huran@1.0.3/fonts/zt.woff2'); /* 字体文件路径 */
   font-display : swap;
 }
 
 body {
-    font-family: 'Candyhome';
+    font-family: 'zt';
 }
 
 /* 页脚透明 */
