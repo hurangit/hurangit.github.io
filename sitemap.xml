@@ -426,6 +426,13 @@
   </url>
   
   <url>
+    <loc>https://blog.huran.xyz/tags/%E9%93%BE%E6%8E%A5%E6%A0%BC%E5%BC%8F/</loc>
+    <lastmod>2022-01-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.huran.xyz/tags/Bug/</loc>
     <lastmod>2022-01-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -434,13 +441,6 @@
   
   <url>
     <loc>https://blog.huran.xyz/tags/%E5%8A%A0%E5%AF%86%E6%96%87%E4%BB%B6%E5%A4%B9/</loc>
-    <lastmod>2022-01-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.huran.xyz/tags/%E9%93%BE%E6%8E%A5%E6%A0%BC%E5%BC%8F/</loc>
     <lastmod>2022-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -461,14 +461,14 @@
   </url>
   
   <url>
-    <loc>https://blog.huran.xyz/tags/Markdown/</loc>
+    <loc>https://blog.huran.xyz/tags/%E7%96%AB%E6%83%85/</loc>
     <lastmod>2022-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.huran.xyz/tags/%E7%96%AB%E6%83%85/</loc>
+    <loc>https://blog.huran.xyz/tags/Markdown/</loc>
     <lastmod>2022-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -547,14 +547,14 @@
   </url>
   
   <url>
-    <loc>https://blog.huran.xyz/categories/Windows/%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://blog.huran.xyz/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/Nginx/</loc>
     <lastmod>2022-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.huran.xyz/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/Nginx/</loc>
+    <loc>https://blog.huran.xyz/categories/Windows/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2022-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
