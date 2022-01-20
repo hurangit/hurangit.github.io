@@ -8,7 +8,7 @@
       <link href="/post/2313b382/"/>
       <url>/post/2313b382/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><div class="tip success"><p>公益图床：<a href="https://img.huran.xyz/">忽然的公益图床 (huran.xyz)</a></p></div><div class="timeline"><div class="timenode"><div class="meta"><p><p>2022-01-20 1.0.0 -&gt; 1.0.1</p></p></div><div class="body"><ol><li>给图床套了个CDN</li></ol></div></div></div><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>Twikoo评论相信很多人都在用，但是插入图片的功能仅限于7bu和腾讯云，腾讯云和7bu都是付费的。很显然不符合我们白嫖的精神。使用vercel搭建的twikoo是免费的，但是插入图片功能不能使用，因为如果你使用7bu的是需要付费购买账号的，而腾讯云只有是通过腾讯云搭建的才可以使用，但是通过腾讯云搭建的最害怕的就是被刷。</p><p>前些天在github上面冲浪的时候看到了一个图床的程序，尝试着搭建了，发现跟7bu的图床程序是一模一样的，甚至连api也是一样的。就动了点小心思 ”我是不是可以通过我搭建的图床api来用做twikoo的插入图片功能。“</p><h2 id="说干就干"><a href="#说干就干" class="headerlink" title="说干就干"></a>说干就干</h2><p>首先在我的图床创建一个自己的账号：<a href="https://img.huran.xyz/auth/register.html">注册 - 忽然的公益图床 (huran.xyz)</a></p><p><img src="https://img.huran.xyz/2022/01/20/7SgqkSGX.png" alt="20220120134747.png"></p><p>注册成功后登录你的账号，来到设置界面，复制你的<code>token</code></p><p><img src="https://img.huran.xyz/2022/01/20/aK1dAdWP.png" alt="1642657765627.png"></p><p>得到<code>token</code>后，前往博客的根目录，打开修改博客的主题配置文件<code>_config.butterfly.yml</code></p><p>找到twikoo的js文件，并替换成我修改后的js文件链接</p><ul><li><img src="https://img.huran.xyz/2022/01/20/M0fs296v.png" alt="1642657936295.png"></li></ul><p>之后上传你的博客，随便进入一片文章，修改评论设置</p><p>将<code>IMAGE_CDN</code>修改为<code>7bu</code></p><p><code>IMAGE_CDN_TOKEN</code>修改为你刚才的<code>token</code></p><ul><li><img src="https://img.huran.xyz/2022/01/20/9PcY0zCJ.png" alt="1642658091805.png"></li></ul><p>之后就可以尽情的享受评论的插入图片功能啦</p><p><img src="https://img.huran.xyz/2022/01/20/UJDtPUQ0.png" alt="1642658179062.png"></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><div class="tip success"><p>公益图床：<a href="https://img.huran.xyz/">忽然的公益图床 (img.huran.xyz)</a></p></div><div class="timeline"><div class="timenode"><div class="meta"><p><p>2022-01-20 1.0.0 -&gt; 1.0.1</p></p></div><div class="body"><ol><li>给图床套了个CDN</li></ol></div></div></div><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>Twikoo评论相信很多人都在用，但是插入图片的功能仅限于7bu和腾讯云，腾讯云和7bu都是付费的。很显然不符合我们白嫖的精神。使用vercel搭建的twikoo是免费的，但是插入图片功能不能使用，因为如果你使用7bu的是需要付费购买账号的，而腾讯云只有是通过腾讯云搭建的才可以使用，但是通过腾讯云搭建的最害怕的就是被刷。</p><p>前些天在github上面冲浪的时候看到了一个图床的程序，尝试着搭建了，发现跟7bu的图床程序是一模一样的，甚至连api也是一样的。就动了点小心思 ”我是不是可以通过我搭建的图床api来用做twikoo的插入图片功能。“</p><h2 id="说干就干"><a href="#说干就干" class="headerlink" title="说干就干"></a>说干就干</h2><p>首先在我的图床创建一个自己的账号：<a href="https://img.huran.xyz/auth/register.html">注册 - 忽然的公益图床 (huran.xyz)</a></p><p><img src="https://img.huran.xyz/2022/01/20/7SgqkSGX.png" alt="20220120134747.png"></p><p>注册成功后登录你的账号，来到设置界面，复制你的<code>token</code></p><p><img src="https://img.huran.xyz/2022/01/20/aK1dAdWP.png" alt="1642657765627.png"></p><p>得到<code>token</code>后，前往博客的根目录，打开修改博客的主题配置文件<code>_config.butterfly.yml</code></p><p>找到twikoo的js文件，并替换成我修改后的js文件链接</p><ul><li><img src="https://img.huran.xyz/2022/01/20/M0fs296v.png" alt="1642657936295.png"></li></ul><p>之后上传你的博客，随便进入一片文章，修改评论设置</p><p>将<code>IMAGE_CDN</code>修改为<code>7bu</code></p><p><code>IMAGE_CDN_TOKEN</code>修改为你刚才的<code>token</code></p><ul><li><img src="https://img.huran.xyz/2022/01/20/9PcY0zCJ.png" alt="1642658091805.png"></li></ul><p>之后就可以尽情的享受评论的插入图片功能啦</p><p><img src="https://img.huran.xyz/2022/01/20/UJDtPUQ0.png" alt="1642658179062.png"></p>]]></content>
       
       
       <categories>
@@ -529,9 +529,9 @@
       
         <tags>
             
-            <tag> Windows </tag>
-            
             <tag> 教程 </tag>
+            
+            <tag> Windows </tag>
             
             <tag> Bug </tag>
             
