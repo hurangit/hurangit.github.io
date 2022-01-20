@@ -17,8 +17,6 @@
           
           <category> 教程 </category>
           
-          <category> twikoo </category>
-          
       </categories>
       
       
@@ -27,6 +25,8 @@
             <tag> Hexo </tag>
             
             <tag> 教程 </tag>
+            
+            <tag> twikoo </tag>
             
         </tags>
       
@@ -529,9 +529,9 @@
       
         <tags>
             
-            <tag> 教程 </tag>
-            
             <tag> Windows </tag>
+            
+            <tag> 教程 </tag>
             
             <tag> Bug </tag>
             
