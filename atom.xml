@@ -6,7 +6,7 @@
   <link href="https://blog.huran.xyz/atom.xml" rel="self"/>
   
   <link href="https://blog.huran.xyz/"/>
-  <updated>2022-01-21T05:13:11.687Z</updated>
+  <updated>2022-01-21T05:32:02.602Z</updated>
   <id>https://blog.huran.xyz/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>忽然公益图床 PicGo 上传插件的使用</title>
+    <link href="https://blog.huran.xyz/post/4ff77429/"/>
+    <id>https://blog.huran.xyz/post/4ff77429/</id>
+    <published>2022-01-21T05:18:37.000Z</published>
+    <updated>2022-01-21T05:32:02.602Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><div class="tip bolt"><p>PicGo 是可以通过插件支持第三方图床平台，我所搭建的图传是基于lskypro的，所以可以通过插件来实现通过PicGo上传到公益图床！</p></div><h2 id="安装步骤"><a href="#安装步骤" class="headerlink" title="安装步骤"></a>安装步骤</h2><p>打开PicGo -&gt; 插件设置 -&gt; 搜索lsykpro -&gt; 安装</p><p><img src="https://img.huran.xyz/2022/01/21/JGl8Yrxh.png" alt="1642742606344.png"></p><p>安装成功后 -&gt; 图床设置 -&gt; LskyPro Uploader -&gt; 设置API和Token （Token获取方法请看:<a href="https://blog.huran.xyz/post/2313b382/">白嫖Twikoo评论插入图片功能</a>） -&gt; 确定或设为默认图床</p><p>Url：<a href="https://img.huran.xyz/api/upload">https://img.huran.xyz/api/upload</a></p><p><img src="https://img.huran.xyz/2022/01/21/tbEY1Uay.png" alt="1642742992697.png"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\js\APlayer.min.js&quot; class=&quot;aplayer-se</summary>
+      
+    
+    
+    
+    <category term="图床" scheme="https://blog.huran.xyz/categories/%E5%9B%BE%E5%BA%8A/"/>
+    
+    
+    <category term="教程" scheme="https://blog.huran.xyz/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="图床" scheme="https://blog.huran.xyz/tags/%E5%9B%BE%E5%BA%8A/"/>
+    
+    <category term="PicGo" scheme="https://blog.huran.xyz/tags/PicGo/"/>
+    
+  </entry>
   
   <entry>
     <title>白嫖twikoo评论插入图片功能</title>
@@ -553,38 +581,6 @@
     <category term="教程" scheme="https://blog.huran.xyz/tags/%E6%95%99%E7%A8%8B/"/>
     
     <category term="主题" scheme="https://blog.huran.xyz/tags/%E4%B8%BB%E9%A2%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>利用Hexo-abbrlink插件生成唯一文章链接</title>
-    <link href="https://blog.huran.xyz/post/16808/"/>
-    <id>https://blog.huran.xyz/post/16808/</id>
-    <published>2021-12-05T02:23:08.000Z</published>
-    <updated>2021-12-05T12:28:26.000Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>Hexo的默认文章链接格式是年，月，日，标题这种格式来生成的。如果你的标题是中文的话，那你的URL链接就会包含中文，生成的链接如下图</p><p><img src="https://unpkg.zhimg.com/hexo-img-post/20211205103011.png" alt=""></p><p>复制后的URL路径就是把中文变成了一大堆字符串编码，如果你在其他地方用这边文章的url链接，偶然你又修改了改文章的标题，那这个URL链接就会失效。为了给每一篇文章来上一个属于自己的链接，写下此教程，利用<code>hexo-abbrlink</code>插件，A Hexo plugin to generate static post link based on post titles,来解决这个问题。 参考github官方： <a href="https%3A//github.com/Rozbo/hexo-abbrlink">hexo-abbrlink</a> 按照此教程配置完之后如下：</p><p><img src="https://unpkg.zhimg.com/hexo-img-post/20211205103230.png" alt=""></p><h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><p>在Hexo根目录安装插件：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-abbrlink --save</span><br></pre></td></tr></table></figure><p>插件安装成功后，修改根目录的配置文件<code>_config.yml</code>找到<code>permalink</code></p><figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">permalink:</span> <span class="string">:year/:month/:day/:title/</span></span><br><span class="line"><span class="comment">#修改为</span></span><br><span class="line"><span class="attr">permalink:</span> <span class="string">post/:abbrlink.html</span> <span class="comment"># post为自定义前缀</span></span><br><span class="line"><span class="attr">abbrlink:</span></span><br><span class="line">    <span class="attr">alg:</span> <span class="string">crc32</span>   <span class="comment">#算法： crc16(default) and crc32</span></span><br><span class="line">    <span class="attr">rep:</span> <span class="string">hex</span>     <span class="comment">#进制： dec(default) and hex</span></span><br></pre></td></tr></table></figure><p>有两种设置：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">alg -- Algorithm (currently support crc16 and crc32, which crc16 is default)</span><br><span class="line">rep -- Represent (the generated link could be presented in hex or dec value)</span><br></pre></td></tr></table></figure><p>crc16的最大数值为65535。如果一个缩写的链接已经存在，它会更改成另一个，并一次又一次地尝试…所以推荐使用crc32</p><h2 id="样本"><a href="#样本" class="headerlink" title="样本"></a>样本</h2><p>生成的链接将如下所示：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">crc16 &amp; hex</span><br><span class="line">https://blog.huran.xyz/posts/66c8.html</span><br><span class="line"></span><br><span class="line">crc16 &amp; dec</span><br><span class="line">https://blog.huran.xyz/posts/65535.html</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">crc32 &amp; hex</span><br><span class="line">https://blog.huran.xyz/posts/8ddf18fb.html</span><br><span class="line"></span><br><span class="line">crc32 &amp; dec</span><br><span class="line">https://blog.huran.xyz/posts/1690090958.html</span><br></pre></td></tr></table></figure><h2 id="验证"><a href="#验证" class="headerlink" title="验证"></a>验证</h2><p>一切修改完毕后，清理本地的文件<code>hexo clean</code>，然后重新生成<code>hexo g</code></p><p>然后找到你的文章打开，该插件会在每篇文章的开头增加内容，如下图：</p><p><img src="https://unpkg.zhimg.com/hexo-img-post/20211205104638.png" alt=""></p><p>预览一下<code>hexo s</code>，访问一下你的本地连接查看成果吧。</p><p>没问题就可以上传<code>hexo d</code>使用了</p><h1 id="Tips"><a href="#Tips" class="headerlink" title="Tips"></a>Tips</h1><p>欢迎收藏和转发，感谢你的支持！(๑•̀ㅂ•́) ✧</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\js\APlayer.min.js&quot; class=&quot;aplayer-se</summary>
-      
-    
-    
-    
-    <category term="Hexo" scheme="https://blog.huran.xyz/categories/Hexo/"/>
-    
-    <category term="教程" scheme="https://blog.huran.xyz/categories/Hexo/%E6%95%99%E7%A8%8B/"/>
-    
-    
-    <category term="Hexo" scheme="https://blog.huran.xyz/tags/Hexo/"/>
-    
-    <category term="教程" scheme="https://blog.huran.xyz/tags/%E6%95%99%E7%A8%8B/"/>
-    
-    <category term="文章" scheme="https://blog.huran.xyz/tags/%E6%96%87%E7%AB%A0/"/>
-    
-    <category term="链接格式" scheme="https://blog.huran.xyz/tags/%E9%93%BE%E6%8E%A5%E6%A0%BC%E5%BC%8F/"/>
     
   </entry>
   
