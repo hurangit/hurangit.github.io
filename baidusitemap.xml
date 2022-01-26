@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blog.huran.xyz/post/20cfea67/</loc>
+    <lastmod>2022-01-26</lastmod>
+  </url>
+  <url>
     <loc>https://blog.huran.xyz/post/10149709/</loc>
     <lastmod>2022-01-25</lastmod>
   </url>
@@ -11,10 +15,6 @@
   <url>
     <loc>https://blog.huran.xyz/post/2313b382/</loc>
     <lastmod>2022-01-22</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.huran.xyz/post/20cfea67/</loc>
-    <lastmod>2022-01-20</lastmod>
   </url>
   <url>
     <loc>https://blog.huran.xyz/post/be90eff1/</loc>
