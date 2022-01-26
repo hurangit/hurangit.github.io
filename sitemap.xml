@@ -503,13 +503,6 @@
   </url>
   
   <url>
-    <loc>https://blog.huran.xyz/tags/PicGo/</loc>
-    <lastmod>2022-01-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.huran.xyz/tags/Bug/</loc>
     <lastmod>2022-01-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -518,6 +511,13 @@
   
   <url>
     <loc>https://blog.huran.xyz/tags/%E5%8A%A0%E5%AF%86%E6%96%87%E4%BB%B6%E5%A4%B9/</loc>
+    <lastmod>2022-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.huran.xyz/tags/PicGo/</loc>
     <lastmod>2022-01-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -631,14 +631,14 @@
   </url>
   
   <url>
-    <loc>https://blog.huran.xyz/categories/%E5%9B%BE%E5%BA%8A/</loc>
+    <loc>https://blog.huran.xyz/categories/Windows/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2022-01-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.huran.xyz/categories/Windows/%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://blog.huran.xyz/categories/%E5%9B%BE%E5%BA%8A/</loc>
     <lastmod>2022-01-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
